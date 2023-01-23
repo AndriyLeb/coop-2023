@@ -14,7 +14,6 @@ onMounted(() => {
 <template>
   <div class="about">
     <h1>This is an about page</h1>
-
     <p>
       <template v-if="user.isConnected">
         Un utilisateur est connecté

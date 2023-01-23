@@ -8,6 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "bulma": "^0.9.4",
     "pinia": "^2.0.26",
     "pinia-plugin-persistedstate": "^3.0.1",
     "vue": "^3.2.45",
